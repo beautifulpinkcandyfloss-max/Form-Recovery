@@ -1,6 +1,6 @@
 # Privacy Policy — Form Recovery
 
-**Last updated:** [add date when you publish]
+**Last updated:** 01/07/2026
 
 Form Recovery is a Chrome/Brave extension that auto-saves form data you type into web pages so it can be restored if you accidentally close a tab, refresh, or your browser/PC crashes.
 
